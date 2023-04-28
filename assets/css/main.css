@@ -4109,3 +4109,12 @@ input, select, textarea {
 					}
 
 	}
+	.delete-instructions {
+		list-style: none;
+		text-align: center;
+	}
+	
+	.delete-instructions li {
+		padding: 10px;
+	}
+	
